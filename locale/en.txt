@@ -1,0 +1,18 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_C82B70A9_C468_48BE_41E7_60E00CF93E8B.label = Panorama_FRAGRANCE VISUAL_2023-06-16-20-21-55
+panorama_C838A1EB_C468_C8B2_41C8_918DD357B4CA.label = Panorama_fragrance lighting_2023-06-15-13-12-04
+panorama_CE8F6E12_C468_DB92_41DE_938773B0A694.label = Panorama_fragrance lighting_2023-06-15-16-39-55
+panorama_CE82A209_C468_CB7E_41DF_11D8959B3D3F.label = Panorama_fragrance lighting_2023-06-15-17-33-40
+panorama_CE8D66CA_C468_C8F2_41E2_8124E88C133E.label = Panorama_fragrance lighting_2023-06-15-19-10-06
+panorama_CE83AB31_C468_B9AE_41E4_46F93A0E9A24.label = Panorama_fragrance lighting_2023-06-15-19-11-16
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 7
